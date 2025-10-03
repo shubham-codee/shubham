@@ -32,7 +32,7 @@ const Footer = () => {
         <ul className="flex items-center justify-center gap-10 mt-4 sm:mt-0">
           <li className="bg-white rounded-full">
             <a href="https://github.com/shubham-codee" target="_blank">
-              <Image src="/Github.png" alt="" width={24} height={24} />
+              <Image src="/GitHub.png" alt="" width={24} height={24} />
             </a>
           </li>
           <li>
